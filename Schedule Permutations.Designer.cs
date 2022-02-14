@@ -54,8 +54,8 @@
             // 
             // dateTimePickerFrom
             // 
-            this.dateTimePickerFrom.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePickerFrom.CustomFormat = "h:mm tt";
+            this.dateTimePickerFrom.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePickerFrom.Location = new System.Drawing.Point(11, 64);
             this.dateTimePickerFrom.Name = "dateTimePickerFrom";
             this.dateTimePickerFrom.ShowUpDown = true;
@@ -64,8 +64,8 @@
             // 
             // dateTimePickerTo
             // 
-            this.dateTimePickerTo.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePickerTo.CustomFormat = "h:mm tt";
+            this.dateTimePickerTo.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePickerTo.Location = new System.Drawing.Point(11, 108);
             this.dateTimePickerTo.Name = "dateTimePickerTo";
             this.dateTimePickerTo.ShowUpDown = true;
