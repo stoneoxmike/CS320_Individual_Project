@@ -41,6 +41,7 @@
             this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.checkBox4 = new System.Windows.Forms.CheckBox();
             this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.buttonMeetingTime = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -98,13 +99,14 @@
             this.buttonAddClass.TabIndex = 10;
             this.buttonAddClass.Text = "Add Class";
             this.buttonAddClass.UseVisualStyleBackColor = true;
+            this.buttonAddClass.Click += new System.EventHandler(this.buttonAddClass_Click);
             // 
             // textBoxName
             // 
             this.textBoxName.Location = new System.Drawing.Point(12, 25);
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(199, 20);
-            this.textBoxName.TabIndex = 11;
+            this.textBoxName.TabIndex = 1;
             // 
             // label4
             // 
@@ -165,11 +167,22 @@
             this.checkBox5.Text = "F";
             this.checkBox5.UseVisualStyleBackColor = true;
             // 
+            // buttonMeetingTime
+            // 
+            this.buttonMeetingTime.Location = new System.Drawing.Point(92, 175);
+            this.buttonMeetingTime.Name = "buttonMeetingTime";
+            this.buttonMeetingTime.Size = new System.Drawing.Size(146, 23);
+            this.buttonMeetingTime.TabIndex = 18;
+            this.buttonMeetingTime.Text = "Add Another Meeting Time";
+            this.buttonMeetingTime.UseVisualStyleBackColor = true;
+            this.buttonMeetingTime.Click += new System.EventHandler(this.buttonMeetingTime_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buttonMeetingTime);
             this.Controls.Add(this.checkBox5);
             this.Controls.Add(this.checkBox4);
             this.Controls.Add(this.checkBox3);
@@ -206,6 +219,8 @@
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.CheckBox checkBox5;
+        private System.Windows.Forms.Button buttonMeetingTime;
+
     }
 }
 

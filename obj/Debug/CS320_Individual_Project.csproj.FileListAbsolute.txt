@@ -9,3 +9,15 @@ C:\Users\stone\source\repos\CS320_Individual_Project\obj\Debug\CS320_Individual_
 C:\Users\stone\source\repos\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.exe
 C:\Users\stone\source\repos\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.pdb
 C:\Users\stone\source\repos\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.Form1.resources
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\bin\Debug\CS320_Individual_Project.exe.config
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\bin\Debug\CS320_Individual_Project.exe
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\bin\Debug\CS320_Individual_Project.pdb
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.csproj.AssemblyReference.cache
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.Form2.resources
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.Form1.resources
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.Properties.Resources.resources
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.csproj.GenerateResource.cache
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.csproj.CoreCompileInputs.cache
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.exe
+C:\Users\stone\OneDrive\Documents\CS320_Individual_Project\obj\Debug\CS320_Individual_Project.pdb
